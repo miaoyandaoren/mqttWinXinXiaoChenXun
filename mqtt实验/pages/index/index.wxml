@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <button type="primary" bindtap="taphere">hello world</button>
+  <label>
+    <view class="label-3-text">hi</view>
+  </label>
+</view>
